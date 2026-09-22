@@ -1,0 +1,11 @@
+{
+"name":"nzbot",
+"version":"1.0.0",
+"main":"index.js",
+"scripts":{"start":"node index.js"},
+"dependencies":{
+"dotenv":"latest",
+"better-sqlite3":"latest",
+"@whiskeysockets/baileys":"latest"
+}
+}
